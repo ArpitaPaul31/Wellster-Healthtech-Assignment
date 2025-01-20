@@ -1,0 +1,18 @@
+{
+    "validCoupons": ["Welcome2025!", "welcome2025!", "welCome2025!"],
+    "invalidCoupons": "Welcome2025",
+    "usedCoupon": "Welcome2025!",
+    "multCoupon": "Welcome2025!Welcome2025!",
+
+    "url" : "https://sprechstunde-test.wellsterhealth.com/1534?env_backend=ekstst",
+    "firstName": "Adam",
+    "surName": "Schmidt",
+    "email": "adam.nsh@gmail.com",
+    "phone": "01123456789",
+    "birthDate": "01.01.1950",
+    "street": "Balanstrasse",
+    "houseNo": "01",
+    "plz": "81377",
+    "city": "Munich",
+    "country": "Germany"
+}
